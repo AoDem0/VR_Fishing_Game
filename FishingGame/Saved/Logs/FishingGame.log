@@ -3093,3 +3093,477 @@ Make sure '/Game/Blueprints/BP_FishingRod.BP_FishingRod_C' has been compiled for
 [2026.06.08-20.21.19:773][860]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.06.08-20.21.19:773][860]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.06.08-20.21.19:773][860]AssetCheck: /Game/VRTemplate/Blueprints/VRPawn Validating asset
+[2026.06.08-20.22.49:315][701]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.22.49:318][701]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_41.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.22.49:320][701]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.22.49:322][701]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_24.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.22.49:323][701]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.22.49:324][701]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_45.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.23.13:030][859]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.23.13:032][859]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_42.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.23.13:034][859]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.23.13:036][859]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_25.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.23.13:037][859]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.23.13:038][859]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_46.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.23.17:667][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-20.23.17:724][ 55]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_FishingRod] ([2] browsable assets)...
+[2026.06.08-20.23.17:733][ 55]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_FishingRod.BP_FishingRod]
+[2026.06.08-20.23.17:733][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_FishingRod]
+[2026.06.08-20.23.17:733][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FishingRod" FILE="../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Content/Blueprints/BP_FishingRod.uasset" SILENT=true
+[2026.06.08-20.23.17:743][ 55]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FishingRod
+[2026.06.08-20.23.17:743][ 55]LogSavePackage: Moving '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Saved/BP_FishingRod4B80D4A24AE3F5A213B03FAA4968EEC7.tmp' to '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Content/Blueprints/BP_FishingRod.uasset'
+[2026.06.08-20.23.17:751][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.317 ms (total: 3.95 sec)
+[2026.06.08-20.23.17:809][ 55]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-20.23.17:809][ 55]LogContentValidation: Enabled validators:
+[2026.06.08-20.23.17:809][ 55]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-20.23.17:809][ 55]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-20.23.17:809][ 55]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-20.23.17:809][ 55]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-20.23.17:809][ 55]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-20.23.17:809][ 55]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-20.23.17:809][ 55]AssetCheck: /Game/Blueprints/BP_FishingRod Validating asset
+[2026.06.08-20.23.18:306][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.06.08-20.23.18:318][ 81]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.23.18:320][ 81]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_43.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.23.18:321][ 81]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.23.18:323][ 81]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_26.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.23.18:325][ 81]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.23.18:326][ 81]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_47.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.23.18:329][ 81]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.23.18:333][ 81]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.23.18:337][ 81]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.23.18:369][ 81]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.23.18:371][ 81]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_45.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.23.18:372][ 81]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.23.18:374][ 81]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_28.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.23.18:376][ 81]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.23.18:377][ 81]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_49.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.23.18:381][ 81]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.23.18:385][ 81]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.23.18:389][ 81]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.25.46:059][722]LogEditorTransaction: Undo Move Node
+[2026.06.08-20.25.46:085][722]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.25.46:090][722]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.25.46:094][722]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.25.47:594][789]LogEditorTransaction: Undo Create Reroute Node
+[2026.06.08-20.25.47:620][789]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.25.47:625][789]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.25.47:630][789]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.25.52:348][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-20.25.52:425][ 59]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/VRPawn] ([2] browsable assets)...
+[2026.06.08-20.25.52:503][ 59]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn]
+[2026.06.08-20.25.52:503][ 59]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/VRPawn]
+[2026.06.08-20.25.52:567][ 59]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2026.06.08-20.25.52:567][ 59]LogSavePackage: Moving '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Saved/VRPawn275A2AB14F912B2615B05A8C4C040F5B.tmp' to '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2026.06.08-20.25.52:579][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 229.799 ms (total: 4.18 sec)
+[2026.06.08-20.25.52:653][ 59]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-20.25.52:653][ 59]LogContentValidation: Enabled validators:
+[2026.06.08-20.25.52:653][ 59]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-20.25.52:653][ 59]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-20.25.52:653][ 59]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-20.25.52:653][ 59]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-20.25.52:653][ 59]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-20.25.52:653][ 59]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-20.25.52:653][ 59]AssetCheck: /Game/VRTemplate/Blueprints/VRPawn Validating asset
+[2026.06.08-20.26.45:856][435]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.26.45:859][435]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.26.45:862][435]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.26.45:912][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.06.08-20.26.45:917][435]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.26.45:922][435]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.26.45:925][435]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.26.45:928][435]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.26.45:958][435]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.26.45:962][435]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.26.45:965][435]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.26.46:845][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-20.26.46:912][477]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/VRPawn] ([2] browsable assets)...
+[2026.06.08-20.26.46:986][477]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn]
+[2026.06.08-20.26.46:986][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/VRPawn]
+[2026.06.08-20.26.47:052][477]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2026.06.08-20.26.47:052][477]LogSavePackage: Moving '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Saved/VRPawnEC1A5BFE458E181E62A102B261A036EF.tmp' to '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2026.06.08-20.26.47:064][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 218.479 ms (total: 4.40 sec)
+[2026.06.08-20.26.47:128][477]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-20.26.47:128][477]LogContentValidation: Enabled validators:
+[2026.06.08-20.26.47:128][477]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-20.26.47:128][477]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-20.26.47:128][477]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-20.26.47:129][477]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-20.26.47:129][477]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-20.26.47:129][477]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-20.26.47:129][477]AssetCheck: /Game/VRTemplate/Blueprints/VRPawn Validating asset
+[2026.06.08-20.27.01:689][335]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18947.576172
+[2026.06.08-20.27.01:873][346]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.08-20.27.01:873][346]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18947.740234, Update Interval: 337.693420
+[2026.06.08-20.27.10:274][850]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.10:277][850]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.10:280][850]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.10:284][850]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.10:286][850]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_53.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.27.10:288][850]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.10:289][850]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_36.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.27.10:290][850]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.10:292][850]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_58.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.27.11:815][941]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-20.27.11:879][941]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_FishingRod] ([2] browsable assets)...
+[2026.06.08-20.27.11:889][941]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_FishingRod.BP_FishingRod]
+[2026.06.08-20.27.11:889][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_FishingRod]
+[2026.06.08-20.27.11:889][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FishingRod" FILE="../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Content/Blueprints/BP_FishingRod.uasset" SILENT=true
+[2026.06.08-20.27.11:898][941]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FishingRod
+[2026.06.08-20.27.11:898][941]LogSavePackage: Moving '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Saved/BP_FishingRodEEBC90094FF116272ADAE1A0A78CC21C.tmp' to '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Content/Blueprints/BP_FishingRod.uasset'
+[2026.06.08-20.27.11:908][941]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.682 ms (total: 4.50 sec)
+[2026.06.08-20.27.11:964][941]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-20.27.11:964][941]LogContentValidation: Enabled validators:
+[2026.06.08-20.27.11:964][941]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-20.27.11:964][941]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-20.27.11:964][941]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-20.27.11:964][941]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-20.27.11:964][941]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-20.27.11:964][941]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-20.27.11:964][941]AssetCheck: /Game/Blueprints/BP_FishingRod Validating asset
+[2026.06.08-20.27.22:587][578]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.22:590][578]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.22:593][578]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.22:598][578]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.22:600][578]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_55.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.27.22:601][578]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.22:603][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_38.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.27.22:604][578]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.22:606][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_60.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.27.24:443][688]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-20.27.24:502][688]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_FishingRod] ([2] browsable assets)...
+[2026.06.08-20.27.24:512][688]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_FishingRod.BP_FishingRod]
+[2026.06.08-20.27.24:513][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_FishingRod]
+[2026.06.08-20.27.24:513][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FishingRod" FILE="../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Content/Blueprints/BP_FishingRod.uasset" SILENT=true
+[2026.06.08-20.27.24:521][688]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FishingRod
+[2026.06.08-20.27.24:522][688]LogSavePackage: Moving '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Saved/BP_FishingRodBA9D6BE140EA0545B62102943E92B045.tmp' to '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Content/Blueprints/BP_FishingRod.uasset'
+[2026.06.08-20.27.24:531][688]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.787 ms (total: 4.58 sec)
+[2026.06.08-20.27.24:594][688]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-20.27.24:594][688]LogContentValidation: Enabled validators:
+[2026.06.08-20.27.24:594][688]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-20.27.24:594][688]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-20.27.24:594][688]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-20.27.24:594][688]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-20.27.24:594][688]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-20.27.24:594][688]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-20.27.24:594][688]AssetCheck: /Game/Blueprints/BP_FishingRod Validating asset
+[2026.06.08-20.27.25:920][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.06.08-20.27.25:931][764]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.25:934][764]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_56.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.27.25:935][764]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.25:937][764]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_39.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.27.25:938][764]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.25:940][764]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_61.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.27.25:943][764]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.25:947][764]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.25:951][764]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.25:981][764]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.25:984][764]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_58.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.27.25:985][764]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.25:987][764]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_41.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.27.25:988][764]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.25:989][764]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_63.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.27.25:992][764]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.25:996][764]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.26:000][764]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.27:613][856]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.27:617][856]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.27:619][856]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.27:625][856]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.27:628][856]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_61.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.27.27:629][856]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.27:630][856]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_44.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.27.27:632][856]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.27:633][856]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_66.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.27.30:249][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.06.08-20.27.30:260][  8]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.30:263][  8]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_62.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.27.30:264][  8]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.30:266][  8]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_45.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.27.30:267][  8]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.30:268][  8]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_67.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.27.30:271][  8]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.30:275][  8]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.30:278][  8]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.30:288][  8]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.30:290][  8]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_64.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.27.30:291][  8]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.30:293][  8]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_47.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.27.30:294][  8]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.30:296][  8]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_BP_FishingRod_C_CHILDACTOR_69.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2026.06.08-20.27.30:299][  8]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.30:303][  8]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.30:306][  8]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.31:122][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-20.27.31:186][ 53]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_FishingRod] ([2] browsable assets)...
+[2026.06.08-20.27.31:196][ 53]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_FishingRod.BP_FishingRod]
+[2026.06.08-20.27.31:196][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_FishingRod]
+[2026.06.08-20.27.31:196][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FishingRod" FILE="../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Content/Blueprints/BP_FishingRod.uasset" SILENT=true
+[2026.06.08-20.27.31:205][ 53]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_FishingRod
+[2026.06.08-20.27.31:205][ 53]LogSavePackage: Moving '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Saved/BP_FishingRod004141A948CC61D4C37F2F9641B4BE93.tmp' to '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Content/Blueprints/BP_FishingRod.uasset'
+[2026.06.08-20.27.31:215][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.184 ms (total: 4.68 sec)
+[2026.06.08-20.27.31:277][ 53]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-20.27.31:277][ 53]LogContentValidation: Enabled validators:
+[2026.06.08-20.27.31:277][ 53]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-20.27.31:277][ 53]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-20.27.31:277][ 53]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-20.27.31:277][ 53]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-20.27.31:277][ 53]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-20.27.31:277][ 53]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-20.27.31:277][ 53]AssetCheck: /Game/Blueprints/BP_FishingRod Validating asset
+[2026.06.08-20.27.44:624][755]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-20.27.44:681][755]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Hook] ([2] browsable assets)...
+[2026.06.08-20.27.44:690][755]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Hook.BP_Hook]
+[2026.06.08-20.27.44:690][755]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Hook]
+[2026.06.08-20.27.44:690][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Hook" FILE="../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Content/Blueprints/BP_Hook.uasset" SILENT=true
+[2026.06.08-20.27.44:702][755]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Hook
+[2026.06.08-20.27.44:702][755]LogSavePackage: Moving '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Saved/BP_Hook841ED7034BBD306BCA3472BBDFBC81E9.tmp' to '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Content/Blueprints/BP_Hook.uasset'
+[2026.06.08-20.27.44:711][755]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.015 ms (total: 4.76 sec)
+[2026.06.08-20.27.44:768][755]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-20.27.44:768][755]LogContentValidation: Enabled validators:
+[2026.06.08-20.27.44:768][755]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-20.27.44:768][755]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-20.27.44:768][755]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-20.27.44:768][755]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-20.27.44:768][755]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-20.27.44:768][755]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-20.27.44:768][755]AssetCheck: /Game/Blueprints/BP_Hook Validating asset
+[2026.06.08-20.27.45:520][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.06.08-20.27.45:532][797]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.45:536][797]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.45:539][797]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.45:550][797]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.45:554][797]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.27.45:557][797]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.28.27:749][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.06.08-20.28.27:778][282]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Lvl_FirstPerson/2/17/JGYZ6020IXLJA3MANFOZOR_Auto6
+[2026.06.08-20.28.27:778][282]LogSavePackage: Moving '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Saved/JGYZ6020IXLJA3MANFOZOR_Auto62ABBB41B4F54E19A6F168A93AF78E19A.tmp' to '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Saved/Autosaves/Game/__ExternalActors__/Levels/Lvl_FirstPerson/2/17/JGYZ6020IXLJA3MANFOZOR_Auto6.uasset'
+[2026.06.08-20.28.27:780][282]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Lvl_FirstPerson' took 0.056
+[2026.06.08-20.28.27:780][282]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
+[2026.06.08-20.31.18:920][ 79]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.08-20.31.21:336][217]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.06.08-20.31.27:485][580]LogPSOHitching: Encountered 100 PSO creation hitches so far (41 graphics, 59 compute). 0 of them were precached.
+[2026.06.08-20.33.19:551][394]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19326.292969
+[2026.06.08-20.33.19:734][405]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.08-20.33.19:734][405]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19326.460938, Update Interval: 331.189301
+[2026.06.08-20.33.49:813][741]LogDerivedDataCache: C:/Users/blued/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.06.08-20.34.19:022][452]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-20.34.19:082][452]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Hook] ([2] browsable assets)...
+[2026.06.08-20.34.19:164][452]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Hook.BP_Hook]
+[2026.06.08-20.34.19:164][452]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Hook]
+[2026.06.08-20.34.19:164][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Hook" FILE="../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Content/Blueprints/BP_Hook.uasset" SILENT=true
+[2026.06.08-20.34.19:177][452]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Hook
+[2026.06.08-20.34.19:178][452]LogSavePackage: Moving '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Saved/BP_HookBF7F42FF40C3BFC826BFEC945539FC69.tmp' to '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Content/Blueprints/BP_Hook.uasset'
+[2026.06.08-20.34.19:186][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 164.727 ms (total: 4.93 sec)
+[2026.06.08-20.34.19:247][452]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-20.34.19:247][452]LogContentValidation: Enabled validators:
+[2026.06.08-20.34.19:247][452]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-20.34.19:247][452]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-20.34.19:247][452]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-20.34.19:247][452]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-20.34.19:247][452]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-20.34.19:247][452]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-20.34.19:247][452]AssetCheck: /Game/Blueprints/BP_Hook Validating asset
+[2026.06.08-20.34.21:090][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.06.08-20.34.21:099][559]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.34.21:104][559]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.34.21:107][559]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.34.21:118][559]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.34.21:122][559]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.34.21:125][559]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.37.15:710][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.06.08-20.37.15:718][734]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.37.15:723][734]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.37.15:726][734]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.37.15:760][734]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.37.15:763][734]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.37.15:767][734]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.38.16:589][464]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-20.38.16:655][464]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Hook] ([2] browsable assets)...
+[2026.06.08-20.38.16:739][464]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Hook.BP_Hook]
+[2026.06.08-20.38.16:739][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Hook]
+[2026.06.08-20.38.16:739][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Hook" FILE="../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Content/Blueprints/BP_Hook.uasset" SILENT=true
+[2026.06.08-20.38.16:749][464]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Hook
+[2026.06.08-20.38.16:751][464]LogSavePackage: Moving '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Saved/BP_HookFCE05E3B4B9A54746B8E08B2A8ECFE34.tmp' to '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Content/Blueprints/BP_Hook.uasset'
+[2026.06.08-20.38.16:760][464]LogFileHelpers: InternalPromptForCheckoutAndSave took 171.389 ms (total: 5.10 sec)
+[2026.06.08-20.38.16:827][464]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-20.38.16:827][464]LogContentValidation: Enabled validators:
+[2026.06.08-20.38.16:827][464]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-20.38.16:827][464]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-20.38.16:827][464]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-20.38.16:827][464]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-20.38.16:827][464]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-20.38.16:827][464]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-20.38.16:827][464]AssetCheck: /Game/Blueprints/BP_Hook Validating asset
+[2026.06.08-20.38.17:543][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.06.08-20.38.17:553][504]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.38.17:557][504]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.38.17:561][504]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.38.17:571][504]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.38.17:575][504]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.38.17:579][504]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.38.18:607][562]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-20.38.18:676][562]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Hook] ([2] browsable assets)...
+[2026.06.08-20.38.18:752][562]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Hook.BP_Hook]
+[2026.06.08-20.38.18:752][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Hook]
+[2026.06.08-20.38.18:753][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Hook" FILE="../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Content/Blueprints/BP_Hook.uasset" SILENT=true
+[2026.06.08-20.38.18:765][562]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Hook
+[2026.06.08-20.38.18:766][562]LogSavePackage: Moving '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Saved/BP_HookE952ABC84F3BF231328E58B46BC9360B.tmp' to '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Content/Blueprints/BP_Hook.uasset'
+[2026.06.08-20.38.18:778][562]LogFileHelpers: InternalPromptForCheckoutAndSave took 171.660 ms (total: 5.27 sec)
+[2026.06.08-20.38.18:842][562]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-20.38.18:842][562]LogContentValidation: Enabled validators:
+[2026.06.08-20.38.18:842][562]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-20.38.18:842][562]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-20.38.18:842][562]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-20.38.18:842][562]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-20.38.18:842][562]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-20.38.18:842][562]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-20.38.18:842][562]AssetCheck: /Game/Blueprints/BP_Hook Validating asset
+[2026.06.08-20.39.38:620][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.06.08-20.39.38:642][823]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Lvl_FirstPerson/2/17/JGYZ6020IXLJA3MANFOZOR_Auto7
+[2026.06.08-20.39.38:642][823]LogSavePackage: Moving '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Saved/JGYZ6020IXLJA3MANFOZOR_Auto7EA17337744107C8A284B7CA330E9994D.tmp' to '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Saved/Autosaves/Game/__ExternalActors__/Levels/Lvl_FirstPerson/2/17/JGYZ6020IXLJA3MANFOZOR_Auto7.uasset'
+[2026.06.08-20.39.38:644][823]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Lvl_FirstPerson' took 0.050
+[2026.06.08-20.39.38:644][823]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2026.06.08-20.39.38:645][823]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/VRPawn] ([2] browsable assets)...
+[2026.06.08-20.39.38:792][823]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn]
+[2026.06.08-20.39.38:792][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/VRPawn]
+[2026.06.08-20.39.38:871][823]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto7
+[2026.06.08-20.39.38:871][823]LogSavePackage: Moving '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Saved/VRPawn_Auto7104C58A04C2F55BDA40A708DB71F57F0.tmp' to '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Saved/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto7.uasset'
+[2026.06.08-20.39.38:872][823]LogFileHelpers: Auto-saving content packages took 0.228
+[2026.06.08-20.39.49:906][857]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19718.138672
+[2026.06.08-20.39.50:905][860]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.08-20.39.50:905][860]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19718.804688, Update Interval: 332.134155
+[2026.06.08-20.39.57:349][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-20.39.57:411][  0]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VRTemplate/Blueprints/VRPawn] ([2] browsable assets)...
+[2026.06.08-20.39.57:411][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/VRPawn]
+[2026.06.08-20.39.57:475][  0]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2026.06.08-20.39.57:475][  0]LogSavePackage: Moving '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Saved/VRPawn178E9E624D4B6E970929A4A06BD50A80.tmp' to '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2026.06.08-20.39.57:486][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.991 ms (total: 5.41 sec)
+[2026.06.08-20.39.57:547][  0]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-20.39.57:547][  0]LogContentValidation: Enabled validators:
+[2026.06.08-20.39.57:547][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-20.39.57:547][  0]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-20.39.57:547][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-20.39.57:547][  0]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-20.39.57:547][  0]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-20.39.57:547][  0]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-20.39.57:547][  0]AssetCheck: /Game/VRTemplate/Blueprints/VRPawn Validating asset
+[2026.06.08-20.39.58:189][ 33]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.39.58:192][ 33]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.39.58:194][ 33]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.39.58:239][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.06.08-20.39.58:243][ 33]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.39.58:247][ 33]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.39.58:251][ 33]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.39.58:254][ 33]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.39.58:286][ 33]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.39.58:289][ 33]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.39.58:293][ 33]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.40.22:564][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.06.08-20.40.22:579][472]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.40.22:584][472]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.40.22:587][472]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.40.22:617][472]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.40.22:621][472]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.40.22:624][472]LogActor: Loaded Actor (FishingRod_GEN_VARIABLE_BP_FishingRod_C_CAT) with IsValid() == false
+[2026.06.08-20.40.23:755][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-20.40.23:828][537]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Hook] ([2] browsable assets)...
+[2026.06.08-20.40.23:902][537]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Hook.BP_Hook]
+[2026.06.08-20.40.23:902][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Hook]
+[2026.06.08-20.40.23:902][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Hook" FILE="../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Content/Blueprints/BP_Hook.uasset" SILENT=true
+[2026.06.08-20.40.23:915][537]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Hook
+[2026.06.08-20.40.23:915][537]LogSavePackage: Moving '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Saved/BP_Hook4177B1ED429679DD8CD253AF55A517B5.tmp' to '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Content/Blueprints/BP_Hook.uasset'
+[2026.06.08-20.40.23:925][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 170.888 ms (total: 5.58 sec)
+[2026.06.08-20.40.24:008][537]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.08-20.40.24:008][537]LogContentValidation: Enabled validators:
+[2026.06.08-20.40.24:008][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-20.40.24:008][537]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-20.40.24:008][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-20.40.24:008][537]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-20.40.24:008][537]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-20.40.24:008][537]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-20.40.24:008][537]AssetCheck: /Game/Blueprints/BP_Hook Validating asset
+[2026.06.08-20.40.53:298][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.06.08-20.40.54:487][715]LogSlate: Window 'Save Content' being destroyed
+[2026.06.08-20.40.54:510][715]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.08-20.40.54:581][715]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_FirstPerson/2/17/JGYZ6020IXLJA3MANFOZOR
+[2026.06.08-20.40.54:581][715]LogSavePackage: Moving '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Saved/JGYZ6020IXLJA3MANFOZOR679D2A78433173A02AADFE97D957F56C.tmp' to '../../../../../../Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Content/__ExternalActors__/Levels/Lvl_FirstPerson/2/17/JGYZ6020IXLJA3MANFOZOR.uasset'
+[2026.06.08-20.40.54:591][715]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.130 ms (total: 5.66 sec)
+[2026.06.08-20.40.54:656][715]LogContentValidation: Display: Starting to validate 2 assets
+[2026.06.08-20.40.54:657][715]LogContentValidation: Enabled validators:
+[2026.06.08-20.40.54:657][715]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.08-20.40.54:657][715]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.08-20.40.54:657][715]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.08-20.40.54:657][715]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.08-20.40.54:657][715]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.08-20.40.54:657][715]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.08-20.40.54:657][715]AssetCheck: /Game/Levels/Lvl_FirstPerson Validating asset
+[2026.06.08-20.41.03:382][208]Cmd: DELETE
+[2026.06.08-20.41.03:385][208]Cmd: ACTOR DELETE
+[2026.06.08-20.41.03:395][208]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.08-20.41.03:419][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.06.08-20.41.03:422][208]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2026.06.08-20.41.11:563][690]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.08-20.41.11:571][690]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.08-20.41.11:571][690]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.06.08-20.41.11:574][690]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 2.288 ms
+[2026.06.08-20.41.11:574][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.08-20.41.11:612][690]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lvl_FirstPerson
+[2026.06.08-20.41.11:644][690]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.08-20.41.11:652][690]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 8.797 ms
+[2026.06.08-20.41.11:652][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040178s)
+[2026.06.08-20.41.11:652][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lvl_FirstPerson.Lvl_FirstPerson to /Game/Levels/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.040270s)
+[2026.06.08-20.41.11:681][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.06.08-20.41.11:684][690]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.06.08-20.41.11:685][690]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.08-20.41.11:685][690]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.08-20.41.11:685][690]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.08-20.41.11:685][690]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.08-20.41.11:690][690]LogWorldPartition: Display: WorldPartition initialize took 5.846 ms (total: 3.74 sec)
+[2026.06.08-20.41.11:690][690]LogPlayLevel: PIE: World Init took: (0.007727s)
+[2026.06.08-20.41.11:691][690]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.06.08-20.41.11:691][690]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.08-20.41.11:691][690]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.08-20.41.11:691][690]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.08-20.41.11:691][690]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.08-20.41.11:691][690]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.08-20.41.11:691][690]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.08-20.41.11:691][690]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.08-20.41.11:692][690]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.08-20.41.11:692][690]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.08-20.41.11:692][690]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.08-20.41.11:692][690]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.08-20.41.11:694][690]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.08-20.41.11:861][690]LogAudioMixer: Display: Using Audio Hardware Device Speaker (2 — Realtek(R) Audio)
+[2026.06.08-20.41.11:861][690]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.08-20.41.11:861][690]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.08-20.41.11:861][690]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.08-20.41.11:862][690]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.06.08-20.41.11:862][690]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.06.08-20.41.11:864][690]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.06.08-20.41.11:864][690]LogInit: FAudioDevice initialized with ID 4.
+[2026.06.08-20.41.11:864][690]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lvl_FirstPerson'.
+[2026.06.08-20.41.11:864][690]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.06.08-20.41.11:864][690]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.06.08-20.41.11:872][690]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.06.08-20.41.11:891][690]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 60) at 2026.06.08-22.41.11
+[2026.06.08-20.41.11:895][690]LogWorld: Bringing up level for play took: 0.021805
+[2026.06.08-20.41.11:898][690]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2026.06.08-20.41.11:924][690]PIE: Server logged in
+[2026.06.08-20.41.11:926][690]PIE: Play in editor total start time 0,357 seconds.
+[2026.06.08-20.41.12:071][691]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.08-20.41.28:273][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-20.41.28:273][654]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lvl_FirstPerson
+[2026.06.08-20.41.28:273][654]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.06.08-20.41.28:276][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-20.41.28:276][654]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.06.08-20.41.28:278][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.08-20.41.28:282][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.08-20.41.28:314][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.08-20.41.28:314][654]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.06.08-20.41.28:314][654]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.06.08-20.41.28:317][654]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.06.08-20.41.28:327][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.06.08-20.41.28:360][655]LogPlayLevel: Display: Destroying online subsystem :Context_27
