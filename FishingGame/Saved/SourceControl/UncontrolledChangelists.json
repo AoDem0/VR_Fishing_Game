@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"G:/Desktop/VR_Fishing_Game/FishingGame/Content/ThirdPerson/MI_ThirdPersonColWay.uasset",
+				"G:/Desktop/VR_Fishing_Game/FishingGame/Content/Eemy/BP_Enemy.uasset",
+				"G:/Desktop/VR_Fishing_Game/FishingGame/Content/Eemy/BasicComponent.uasset",
+				"G:/Desktop/VR_Fishing_Game/FishingGame/Content/VRTemplate/Blueprints/Projectile.uasset",
+				"G:/Desktop/VR_Fishing_Game/FishingGame/Content/VRTemplate/Blueprints/Pistol.uasset",
+				"G:/Desktop/VR_Fishing_Game/FishingGame/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/U9/942EZCCHSJU55WYLWDC03I.uasset",
+				"G:/Desktop/VR_Fishing_Game/FishingGame/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/VX/PPCONU8SXJ52U9CKL088BK.uasset",
 				"C:/Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Content/Blueprints/BP_FishingRod.uasset",
 				"C:/Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Content/VRTemplate/Blueprints/Pistol.uasset",
 				"C:/Users/blued/Documents/Repozytoria/VR_Fishing_Game/FishingGame/Content/VRTemplate/Maps/VRTemplateMap.umap",
